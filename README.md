@@ -1,8 +1,10 @@
-# Excel Projects
-1 - Bike selling project  
-# problem statement- to determine how many people can or cannot afford a bike. based on factors like income, education, and occupation 
-# skill set - excel
-# result - I created a dashboard using Excel data so that we could readily comprehend and analyze the selling of bikes and make subsequent decisions.
+# 1 - Bike selling project  
+# problem statement 
+to determine how many people can or cannot afford a bike. based on factors like income, education, and occupation 
+# skill set
+excel
+# result 
+I created a dashboard using Excel data so that we could readily comprehend and analyze the selling of bikes and make subsequent decisions.
 
 This is an Excel project that includes pertinent photos to aid with understanding.
 
